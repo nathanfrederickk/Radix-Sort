@@ -1,5 +1,5 @@
 # Radix-Sort
-Given data of matches between two teams with their scores, the analyze function can sort the data with radix sort and remove all the duplicates. The analyze function can also find the matches with the target score using a modified binary search. For example the input can be a table of matches and their result:
+Given data of matches between two teams with their scores, the analyze function can sort the data and take the top 10 matches (according to scores) with radix sort and remove all the duplicates. The analyze function can also find the matches with the target score using a modified binary search. For example the input can be a table of matches and their score:
 
 ```
 # a roster of 2 characters
